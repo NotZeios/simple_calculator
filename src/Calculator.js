@@ -71,7 +71,7 @@ function Calculator() {
 
   return (
     <div className="calculator-container">
-      <h2 className="calculator-title">Calculator</h2>
+      <h2 className="calculator-title">Simple_Calculator</h2>
       <div className="calculator-row">
         <input
           type="text"
